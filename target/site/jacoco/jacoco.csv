@@ -1,0 +1,7 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+sesion07Maven,ual.hmis.session05,Exercise5,19,0,0,0,6,0,2,0,2,0
+sesion07Maven,ual.hmis.session05,TestDiagonales,0,84,0,6,0,15,0,6,0,3
+sesion07Maven,ual.hmis.session05,Exercise4,0,29,2,8,0,9,2,5,0,2
+sesion07Maven,ual.hmis.session05,Exercise3,0,29,2,8,0,9,2,5,0,2
+sesion07Maven,ual.hmis.session05,Exercise2,0,52,1,17,0,14,1,11,0,3
+sesion07Maven,ual.hmis.session05,Exercise1,0,42,0,6,0,10,0,5,0,2
